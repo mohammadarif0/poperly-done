@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .orange-color {
@@ -18,7 +19,7 @@ section {
 }
 
 .half-width img {
-    width: 80%;
+    width: 50%;
 }
 
 .link-button {
@@ -32,4 +33,5 @@ section {
 
 .top-banner {
     background-image: url(image/res.png);
+    background-repeat: no-repeat;
 }
